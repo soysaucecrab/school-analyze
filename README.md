@@ -21,3 +21,5 @@ pollute.ipynb
 2022.csv, 2023.csv
 
 데이터들은 data폴더 안에 있습니다.
+
+* leg(n)=10의 n승
